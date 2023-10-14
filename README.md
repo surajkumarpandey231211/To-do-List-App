@@ -1,6 +1,5 @@
 # To-do-List-App
 
-# To-Do List App
 
 A simple web-based To-Do List application that allows you to manage and keep track of your tasks.
 
