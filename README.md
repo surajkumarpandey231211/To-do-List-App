@@ -41,7 +41,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
 
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/surajkumarpandey231211/To-do-List-App.git
 Open the project folder in your text editor.
 
 Open the index.html file in your web browser to use the app.
@@ -82,8 +82,7 @@ Create a pull request on GitHub.
 This project is licensed under the MIT License - see the LICENSE file for details.
 Feel free to customize this README to suit your project and provide more specific details as needed. Good luck with your To-Do List App!
 
-sql
-Remember to replace the placeholders like `yourusername/your-repo` and add your specific project information and links where necessary.
+
 
 
 
