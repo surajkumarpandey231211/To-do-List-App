@@ -4,7 +4,7 @@
 
 A simple web-based To-Do List application that allows you to manage and keep track of your tasks.
 
-![To-Do List App Screenshot](screenshot.png)
+![To-Do List App Screenshot](Screenshot.png)
 
 ## Table of Contents
 
